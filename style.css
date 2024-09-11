@@ -17,7 +17,8 @@ body {
     justify-content: center;
     align-items: center;
     font-family: 'Montserrat', sans-serif;
-    background-image: url('avatar.jpg'); /* Path to your image */
+    background-color: #cac7c7;
+   /* background-image: url('avatar.jpg');  Path to your image */
     background-size: cover; /* Ensure the image covers the entire body */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Avoid repeating the image */
